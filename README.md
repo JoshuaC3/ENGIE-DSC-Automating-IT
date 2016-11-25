@@ -13,7 +13,7 @@ XlsxWriter 0.9.3
 Either run the all cells in the "Winning Solution XGBoost Model.ipynb" or run 
 "Winning Solution XGBoost Model.py" (ipynb export).
 
-*NB:* Please note filenames and directories are setup for running on my pc so please change
+**NB:** Please note filenames and directories are setup for running on my pc so please change
 these to match you own computers directories.
 
 ### Other

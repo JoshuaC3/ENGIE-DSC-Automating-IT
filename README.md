@@ -13,3 +13,12 @@ XlsxWriter 0.9.3
 Either run the all cells in the "Winning Solution XGBoost Model.ipynb" or run 
 "Winning Solution XGBoost Model.py" (ipynb export).
 
+*NB:* Please note filenames and directories are setup for running on my pc so please change
+these to match you own computers directories.
+
+### Other
+
+Any questions regarding running please raise as an issue through github.
+
+Any questions regarding modeling or feature engineering please ask at https://datascience-challenge.engie.com/#/forum/36418/thread/49106/post
+

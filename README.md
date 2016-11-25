@@ -5,7 +5,7 @@ This is the winning solution for the ENGIE Data Science Challenge's *Automating 
 
 ### Requirements
 
-Python 3.5, Jupyter Notebook 4.1.1, category-encoders 1.2.3, matplotlib 1.5.3, Numpy 1.11.2
+Python 3.5, Jupyter Notebook 4.1.1, category-encoders 1.2.3, matplotlib 1.5.3, Numpy 1.11.2,
 openpyxl 2.4.0, pandas 0.19.0, scikit-learn 0.18, seaborn 0.7.1, xgbfir 0.2, xgboost 0.6a2,
 XlsxWriter 0.9.3
 

@@ -1,6 +1,6 @@
 ﻿# ENGIE-DSC-Automating-IT
 
-This is the winning solution for the ENGIE Data Science Challenge's *Automating IT Operations using Machine Learning*. This model scored (RMSE) 13.438 on the private test set, 12.133 on the public test set and 12.546.
+This is the winning solution for the ENGIE Data Science Challenge's *Automating IT Operations using Machine Learning*. This model scored (RMSE) 13.438 on the private test set, 12.133 on the public test set and 12.546 in the 5-fold cross validation on my training set.
 
 
 ### Requirements
